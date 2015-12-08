@@ -66,7 +66,7 @@ https://github.com/naoya/boilerplate
 
 + レンダリング時にscss->css変換を実施
     * cssファイルの生成を抑えられる（というのをメリットとする
-+ 製作時にscss->css変換し、cssファイルを配置
++ 制作時にscss->css変換し、cssファイルを配置
     * 従来フローに加え易い
 
 ---
